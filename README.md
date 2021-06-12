@@ -1,6 +1,6 @@
 
-#My competitive programming library
-This librabry contains the implentation of the algorithms/data structure that are mostly used in competitive programming.
+# My competitive programming library
+This library contains the implementation of the algorithms/data structure that are mostly used in competitive programming.
 
 ## Content
 
